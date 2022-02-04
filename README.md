@@ -1,2 +1,2 @@
 # firstgit
-For learning git
+## For project nontes
